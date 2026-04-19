@@ -1,3 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Course Work</string>
+    <string name="weather_title">Weather</string>
+    <string name="refresh">Refresh</string>
+    <string name="weather_detail">%1$d °C</string>
+    <string name="error_city_not_found">City not found</string>
+    <string name="error_no_forecast">No forecast data</string>
+    <string name="error_generic">Error</string>
+    <string name="city_moscow">Moscow</string>
+    <string name="city_saint_petersburg">Saint Petersburg</string>
+    <string name="city_novosibirsk">Novosibirsk</string>
+    <string name="city_yekaterinburg">Yekaterinburg</string>
+    <string name="city_kazan">Kazan</string>
+    <string name="city_nizhny_novgorod">Nizhny Novgorod</string>
+    <string name="city_chelyabinsk">Chelyabinsk</string>
+    <string name="city_samara">Samara</string>
+    <string name="city_omsk">Omsk</string>
+    <string name="city_izhevsk">Izhevsk</string>
+    <string name="city_ufa">Ufa</string>
+    <string name="city_krasnoyarsk">Krasnoyarsk</string>
+    <string name="city_voronezh">Voronezh</string>
+    <string name="city_perm">Perm</string>
+    <string name="city_volgograd">Volgograd</string>
 </resources>
