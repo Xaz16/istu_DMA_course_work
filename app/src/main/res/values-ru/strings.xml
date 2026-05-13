@@ -2,11 +2,20 @@
 <resources>
     <string name="app_name">Курсовая работа</string>
     <string name="weather_title">Погода</string>
+    <string name="weather_high_low">%1$d°/%2$d°</string>
     <string name="refresh">Обновить</string>
     <string name="weather_detail">%1$d °C</string>
     <string name="error_city_not_found">Город не найден</string>
     <string name="error_no_forecast">Нет данных прогноза</string>
     <string name="error_generic">Ошибка</string>
+    <string name="empty_cities_hint">В списке нет городов. Нажмите + и введите название на английском (например Sochi).</string>
+    <string name="add_city">Добавить город</string>
+    <string name="add_city_title">Добавить город</string>
+    <string name="add_city_hint">Название на английском</string>
+    <string name="add_city_positive">Добавить</string>
+    <string name="add_city_cancel">Отмена</string>
+    <string name="city_already_saved">Этот город уже в списке</string>
+    <string name="city_add_failed">Город не найден. Проверьте написание на английском.</string>
     <string name="city_moscow">Москва</string>
     <string name="city_saint_petersburg">Санкт-Петербург</string>
     <string name="city_novosibirsk">Новосибирск</string>
@@ -22,4 +31,15 @@
     <string name="city_voronezh">Воронеж</string>
     <string name="city_perm">Пермь</string>
     <string name="city_volgograd">Волгоград</string>
+    <string name="wx_clear">Ясно</string>
+    <string name="wx_mainly_clear">Преимущественно ясно</string>
+    <string name="wx_partly_cloudy">Переменная облачность</string>
+    <string name="wx_overcast">Пасмурно</string>
+    <string name="wx_fog">Туман</string>
+    <string name="wx_drizzle">Морось</string>
+    <string name="wx_rain">Дождь</string>
+    <string name="wx_snow">Снег</string>
+    <string name="wx_showers">Ливни</string>
+    <string name="wx_thunder">Гроза</string>
+    <string name="wx_cloudy">Облачно</string>
 </resources>
