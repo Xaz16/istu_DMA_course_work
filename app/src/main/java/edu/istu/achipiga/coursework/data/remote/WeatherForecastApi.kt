@@ -9,8 +9,9 @@ interface WeatherForecastApi {
     suspend fun forecast(
         @Query("latitude") latitude: Double,
         @Query("longitude") longitude: Double,
-        @Query("hourly") hourly: String = "temperature_2m",
-        @Query("forecast_days") forecastDays: Int = 7,
+        @Query("current") current: String = "temperature_2m,weather_code",
+        @Query("hourly") hourly: String = "temperature_2m,weather_code",
+        @Query("forecast_days") forecastDays: Int = 2,
         @Query("timezone") timezone: String = "auto"
     ): OpenMeteoForecastDto
 }

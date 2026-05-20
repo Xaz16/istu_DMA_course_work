@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="weather_header_blue">#0D47A1</color>
+    <color name="weather_empty_hint">#B0BEC5</color>
+    <color name="md_theme_dark_primary">#90CAF9</color>
+    <color name="md_theme_dark_onPrimary">#0D2137</color>
+    <color name="md_theme_dark_primaryContainer">#1565C0</color>
+    <color name="md_theme_dark_onPrimaryContainer">#E3F2FD</color>
+    <color name="md_theme_dark_surface">#0F1926</color>
+    <color name="md_theme_dark_onSurface">#DCE5E4</color>
+    <color name="md_theme_dark_onSurfaceVariant">#BEC9C8</color>
+    <color name="md_theme_dark_outlineVariant">#3F4948</color>
+    <color name="md_theme_dark_errorContainer">#93000A</color>
+    <color name="md_theme_dark_onErrorContainer">#FFDAD6</color>
+</resources>

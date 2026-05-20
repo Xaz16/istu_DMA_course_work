@@ -2,11 +2,20 @@
 <resources>
     <string name="app_name">Course Work</string>
     <string name="weather_title">Weather</string>
+    <string name="weather_high_low">%1$d°/%2$d°</string>
     <string name="refresh">Refresh</string>
     <string name="weather_detail">%1$d °C</string>
     <string name="error_city_not_found">City not found</string>
     <string name="error_no_forecast">No forecast data</string>
     <string name="error_generic">Error</string>
+    <string name="empty_cities_hint">No cities in the list. Tap + to add a city (English name, e.g. Sochi).</string>
+    <string name="add_city">Add city</string>
+    <string name="add_city_title">Add city</string>
+    <string name="add_city_hint">Name in English</string>
+    <string name="add_city_positive">Add</string>
+    <string name="add_city_cancel">Cancel</string>
+    <string name="city_already_saved">This city is already in the list</string>
+    <string name="city_add_failed">City not found. Check the English spelling.</string>
     <string name="city_moscow">Moscow</string>
     <string name="city_saint_petersburg">Saint Petersburg</string>
     <string name="city_novosibirsk">Novosibirsk</string>
@@ -22,4 +31,15 @@
     <string name="city_voronezh">Voronezh</string>
     <string name="city_perm">Perm</string>
     <string name="city_volgograd">Volgograd</string>
+    <string name="wx_clear">Clear</string>
+    <string name="wx_mainly_clear">Mainly clear</string>
+    <string name="wx_partly_cloudy">Partly cloudy</string>
+    <string name="wx_overcast">Overcast</string>
+    <string name="wx_fog">Fog</string>
+    <string name="wx_drizzle">Drizzle</string>
+    <string name="wx_rain">Rain</string>
+    <string name="wx_snow">Snow</string>
+    <string name="wx_showers">Showers</string>
+    <string name="wx_thunder">Thunderstorm</string>
+    <string name="wx_cloudy">Cloudy</string>
 </resources>
